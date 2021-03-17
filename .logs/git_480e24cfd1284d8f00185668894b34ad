@@ -1,0 +1,13 @@
+Deployment start
+Repository git@gitlab.com:o7yo76yo/eticketing.git
+Checking project directory is empty
+Project directory is empty
+Cloning code repository
+Repository cloned
+Looking for composer.lock file
+Found composer.lock file. Updating hash..
+The file composer.lock has been updated
+Looking for composer.json file
+Found composer.json file. Installing dependencies
+Dependencies form composer.json file were updated
+Deployment end
